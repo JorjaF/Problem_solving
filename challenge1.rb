@@ -1,5 +1,5 @@
 # Given an array of strings, return only the strings that have exactly 4 characters.
-# for this one i would create and array of strings then use the .length method to pull only the ones with 4 charaters
+# for this one i would create and array of strings then use the .length method to pull only the elemements with 4 charaters
 
 list = ["car","apple", "fire", "trees"]
 list.each do |item| 
